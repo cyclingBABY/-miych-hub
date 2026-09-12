@@ -1,0 +1,6 @@
+{
+  "name": "THE MITCH HUB",
+  "description": "Uganda's Premier 360 Production House - High-end event production, lighting, sound, LED screens, and stage designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
